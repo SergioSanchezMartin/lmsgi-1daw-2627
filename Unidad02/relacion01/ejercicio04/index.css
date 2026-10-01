@@ -7,7 +7,7 @@ h1 {
 }
 
 /* Los h2 que estén dentro de trabajador */
-.trabajador > h2 {
+.trabajador h2 {
     text-align: center;
 }
 
